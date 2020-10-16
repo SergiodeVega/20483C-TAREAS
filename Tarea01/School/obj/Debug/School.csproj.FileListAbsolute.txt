@@ -1,0 +1,40 @@
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\bin\Debug\School.exe.config
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\bin\Debug\School.exe
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\bin\Debug\School.pdb
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.csprojAssemblyReference.cache
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\StudentForm.baml
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\MainWindow.g.cs
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\StudentForm.g.cs
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\App.g.cs
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School_MarkupCompile.cache
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School_MarkupCompile.lref
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\MainWindow.baml
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.g.resources
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.Properties.Resources.resources
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.csproj.GenerateResource.cache
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.exe
+D:\20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.pdb
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\bin\Debug\School.exe.config
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\bin\Debug\School.exe.manifest
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\bin\Debug\School.application
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\bin\Debug\School.exe
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\bin\Debug\School.pdb
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.csprojAssemblyReference.cache
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\StudentForm.baml
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\MainWindow.g.cs
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\StudentForm.g.cs
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\App.g.cs
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School_MarkupCompile.cache
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School_MarkupCompile.lref
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\MainWindow.baml
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.g.resources
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.Properties.Resources.resources
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.csproj.GenerateResource.cache
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.exe.manifest
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.application
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.exe
+D:\3_ 20483C\_Allfiles\Mod01\Labfiles\Starter\Exercise 1\School\obj\Debug\School.pdb
