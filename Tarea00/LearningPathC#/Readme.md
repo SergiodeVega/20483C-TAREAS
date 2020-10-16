@@ -2,16 +2,16 @@ Estas son las capturas de pantalla de los logros de los Learning Paths.
 
 ![p1](p1.png)
 
-![p2](D:\3_ 20483C\20483C TAREAS\Tarea00\LearningPathC#\p2.png)
+![p2](p2.png)
 
-![p3](D:\3_ 20483C\20483C TAREAS\Tarea00\LearningPathC#\p3.png)
+![p3](p3.png)
 
-![p4](D:\3_ 20483C\20483C TAREAS\Tarea00\LearningPathC#\p4.png)
+![p4](p4.png)
 
-![p5](D:\3_ 20483C\20483C TAREAS\Tarea00\LearningPathC#\p5.png)
+![p5](p5.png)
 
-![p6](D:\3_ 20483C\20483C TAREAS\Tarea00\LearningPathC#\p6.png)
+![p6](p6.png)
 
-![p7](D:\3_ 20483C\20483C TAREAS\Tarea00\LearningPathC#\p7.png)
+![p7](p7.png)
 
-![p8](D:\3_ 20483C\20483C TAREAS\Tarea00\LearningPathC#\p8.png)
+![p8](p8.png)
