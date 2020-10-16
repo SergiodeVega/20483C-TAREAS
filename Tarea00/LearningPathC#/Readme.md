@@ -1,6 +1,6 @@
 Estas son las capturas de pantalla de los logros de los Learning Paths.
 
-![p1](.\p1.png)
+![p1](p1.png)
 
 ![p2](D:\3_ 20483C\20483C TAREAS\Tarea00\LearningPathC#\p2.png)
 
