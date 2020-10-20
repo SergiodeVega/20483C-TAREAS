@@ -6,51 +6,60 @@ namespace matrizletras
     {
         static void Main(string[] args)
         {
-            char[,] letra = genera('O');
-            imprime(letra);
+            char[,] matrizLetra = genera('C');
+            imprime(matrizLetra);
             Console.WriteLine("\n");
-            letra = genera('C');
-            imprime(letra);
+            matrizLetra = genera('O');
+            imprime(matrizLetra);
         }
 
-        static public char[,] genera(char letra) {
-            char[,] matr = new char[7,7];
-            switch(letra) {
-                case 'O':
-                    matr = new char[7,7] {  {' ',' ','*','*','*',' ',' '},
-                                            {' ','*',' ',' ',' ','*',' '},
-                                            {'*',' ',' ',' ',' ',' ','*'},
-                                            {'*',' ',' ',' ',' ',' ','*'},
-                                            {'*',' ',' ',' ',' ',' ','*'},
-                                            {' ','*',' ',' ',' ','*',' '},
-                                            {' ',' ','*','*','*',' ',' '}
-                    };
-                    break;
+        static public char[,] genera(char letra)
+        {
+            char[,] matrizLetra = new char[7, 7];
+            switch (letra)
+            {
                 case 'C':
-                    matr = new char[7,7] {  {' ',' ','*','*','*','*',' '},
-                                            {' ','*',' ',' ',' ',' ','*'},
-                                            {'*',' ',' ',' ',' ',' ',' '},
-                                            {'*',' ',' ',' ',' ',' ',' '},
-                                            {'*',' ',' ',' ',' ',' ',' '},
-                                            {' ','*',' ',' ',' ',' ','*'},
-                                            {' ',' ','*','*','*','*',' '}
-                    };
+                    for (int row = 0; row < 7; row++)
+                    {
+                        for (int column = 0; column < 7; column++)
+                        {
+                            matrizLetra[row, column] = (
+                            ((row == 0 || row == 6) && (column > 1 && column < 6)) ||
+                            ((row == 1 || row == 5) && (column == 1 || column == 6)) ||
+                            ((row > 1 && row < 5) && column == 0)
+                            ? '*' : ' ');
+                        }
+                    }
                     break;
-               // default:
-
+                case 'O':
+                    for (int row = 0; row < 7; row++)
+                    {
+                        for (int column = 0; column < 7; column++)
+                        {
+                            matrizLetra[row,column] = (
+                            ((row == 0 || row == 6) && (column > 1 && column < 5)) ||
+                            ((row == 1 || row == 5) && (column == 1 || column == 5)) ||
+                            ((row > 1 && row < 5) && ((column == 0 || column == 6)))
+                            ? '*' : ' ');
+                        }
+                    }
+                    break;
             }
-            return matr;
+            return matrizLetra;
         }
 
-        static public void imprime(char[,] matr) {
-            for (int fila=0; fila < 7; fila++) {
-                for (int colu=0; colu<7; colu++) {
-                    Console.Write(matr[fila,colu]);
+        static public void imprime(char[,] matr)
+        {
+            for (int row = 0; row < 7; row++)
+            {
+                for (int column = 0; column < 7; column++)
+                {
+                    Console.Write(matr[row, column]);
                 }
                 Console.WriteLine("");
             }
         }
     }
- 
-    
+
+
 }

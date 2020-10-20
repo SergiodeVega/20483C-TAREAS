@@ -24,3 +24,16 @@ D:\3_ 20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.csproj.CoreCompil
 D:\3_ 20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.dll
 D:\3_ 20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.pdb
 D:\3_ 20483C\matrizletras\obj\Debug\netcoreapp3.1\matrizletras.genruntimeconfig.cache
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\obj\Debug\netcoreapp3.1\matrizletras.csprojAssemblyReference.cache
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\obj\Debug\netcoreapp3.1\matrizletras.AssemblyInfoInputs.cache
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\obj\Debug\netcoreapp3.1\matrizletras.AssemblyInfo.cs
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\obj\Debug\netcoreapp3.1\matrizletras.csproj.CoreCompileInputs.cache
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\obj\Debug\netcoreapp3.1\matrizletras.dll
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\obj\Debug\netcoreapp3.1\matrizletras.pdb
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\bin\Debug\netcoreapp3.1\matrizletras.exe
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\bin\Debug\netcoreapp3.1\matrizletras.deps.json
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\bin\Debug\netcoreapp3.1\matrizletras.runtimeconfig.json
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\bin\Debug\netcoreapp3.1\matrizletras.runtimeconfig.dev.json
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\bin\Debug\netcoreapp3.1\matrizletras.dll
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\bin\Debug\netcoreapp3.1\matrizletras.pdb
+D:\3_20483C\20483C TAREAS\Tarea00\MatrizLetrasCyO\obj\Debug\netcoreapp3.1\matrizletras.genruntimeconfig.cache

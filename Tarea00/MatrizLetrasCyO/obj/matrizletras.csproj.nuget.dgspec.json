@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\3_ 20483C\\matrizletras\\matrizletras.csproj": {}
+    "D:\\3_20483C\\20483C TAREAS\\Tarea00\\MatrizLetrasCyO\\matrizletras.csproj": {}
   },
   "projects": {
-    "D:\\3_ 20483C\\matrizletras\\matrizletras.csproj": {
+    "D:\\3_20483C\\20483C TAREAS\\Tarea00\\MatrizLetrasCyO\\matrizletras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\3_ 20483C\\matrizletras\\matrizletras.csproj",
+        "projectUniqueName": "D:\\3_20483C\\20483C TAREAS\\Tarea00\\MatrizLetrasCyO\\matrizletras.csproj",
         "projectName": "matrizletras",
-        "projectPath": "D:\\3_ 20483C\\matrizletras\\matrizletras.csproj",
+        "projectPath": "D:\\3_20483C\\20483C TAREAS\\Tarea00\\MatrizLetrasCyO\\matrizletras.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "D:\\3_ 20483C\\matrizletras\\obj\\",
+        "outputPath": "D:\\3_20483C\\20483C TAREAS\\Tarea00\\MatrizLetrasCyO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
