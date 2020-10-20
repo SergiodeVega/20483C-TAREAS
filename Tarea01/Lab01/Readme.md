@@ -6,9 +6,3 @@
       2. Inicializamos el formulario de estudiante con los datos de la línea seleccionada.
       3. 
 4. Dificultades:
-
-contiene la lista de los estudiantes y Studentform.xmal que contiene el detalle de cada estudiante
-
-alt text
-
-La lista de estudiantes se carga cuando se car
