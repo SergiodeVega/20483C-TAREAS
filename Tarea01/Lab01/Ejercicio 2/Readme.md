@@ -7,4 +7,4 @@
       3. Mostramos el formulario para habilitar la entrada de datos.
       4. Escribimos el código para asignar el nuevo estudiante a una clase y permitir guardar.
       5. Ejecutamos y verificamos.  ![C1](images/C1.PNG)
-      ![C2](imgaes/C2.PNG)
+      ![C2](images/C2.PNG)
