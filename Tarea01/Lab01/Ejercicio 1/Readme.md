@@ -9,4 +9,4 @@
       ![C2](images/C2.PNG)
       4. Verificamos.
       5. Utlizamos el Debugger para hacer modificaciones manualmente, mediante las ventanas WATCH e IMMEDIATE WINDOW, visualizando y cambiando el contenido del formulario de estudiantes.
-      ![C3](images/c3.PNG)
+      ![C3](images/C3.PNG)
