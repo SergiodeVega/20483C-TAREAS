@@ -1,0 +1,7 @@
+D:\_Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\obj\Debug\FourthCoffee.MethodTestHarness.csprojAssemblyReference.cache
+D:\_Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\obj\Debug\FourthCoffee.MethodTestHarness.csproj.CoreCompileInputs.cache
+D:\_Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\bin\Debug\FourthCoffee.MethodTestHarness.exe.config
+D:\_Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\bin\Debug\FourthCoffee.MethodTestHarness.exe
+D:\_Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\bin\Debug\FourthCoffee.MethodTestHarness.pdb
+D:\_Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\obj\Debug\FourthCoffee.MethodTestHarness.exe
+D:\_Allfiles\Mod02\Democode\Starter\FourthCoffee.MethodTestHarness\FourthCoffee.MethodTestHarness\obj\Debug\FourthCoffee.MethodTestHarness.pdb
