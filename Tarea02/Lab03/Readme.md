@@ -10,10 +10,12 @@
       ![C2](images/C2.PNG)
       ![C3](images/C3.PNG)
       ![C4](images/C4.PNG)
+      ---
    2. **Ejercicio 02:** Crear Data Types para almacenar información.
       1. Definimos las estructuras para albergar la información de notas, estudiantes y profesores.
       ![C5](images/C5.PNG)
       2. Vemos cómo están creados los datos en la función CreateData en DataSource.cs
+      ---
    3. **Ejercicio 03:** Mostrando la información de Usuario y Curso.
       1. Añadimos el evento LogonFailed y su manejador.
       2. Añadimos código para mostrar los estudiantes del profesor actual.
