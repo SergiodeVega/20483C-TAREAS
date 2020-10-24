@@ -1,0 +1,10 @@
+D:\_Allfiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.dll.config
+D:\_Allfiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.dll
+D:\_Allfiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\Grades.DataModel.pdb
+D:\_Allfiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\EntityFramework.dll
+D:\_Allfiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\bin\Debug\EntityFramework.xml
+D:\_Allfiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csprojAssemblyReference.cache
+D:\_Allfiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+D:\_Allfiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CopyComplete
+D:\_Allfiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.dll
+D:\_Allfiles\Mod08\Labfiles\Starter\Exercise 2\Grades.DataModel\obj\Debug\Grades.DataModel.pdb
