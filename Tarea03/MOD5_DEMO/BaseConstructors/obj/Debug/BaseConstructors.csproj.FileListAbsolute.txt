@@ -1,0 +1,6 @@
+D:\_Allfiles\Mod05\Democode\BaseConstructors\bin\Debug\BaseConstructors.exe.config
+D:\_Allfiles\Mod05\Democode\BaseConstructors\bin\Debug\BaseConstructors.exe
+D:\_Allfiles\Mod05\Democode\BaseConstructors\bin\Debug\BaseConstructors.pdb
+D:\_Allfiles\Mod05\Democode\BaseConstructors\obj\Debug\BaseConstructors.csproj.CoreCompileInputs.cache
+D:\_Allfiles\Mod05\Democode\BaseConstructors\obj\Debug\BaseConstructors.exe
+D:\_Allfiles\Mod05\Democode\BaseConstructors\obj\Debug\BaseConstructors.pdb
