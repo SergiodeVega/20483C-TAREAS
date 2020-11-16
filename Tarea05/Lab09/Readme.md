@@ -1,5 +1,5 @@
 1. Sergio de Vega
-2. xx octubre 2020
+2. 16 noviembre 2020
 3. **(20483C_MOD09_LAK.md)** Diseñando la UI para una aplicación gráfica.
    1. **Ejercicio 01:** Personalizando la apariencia de las fotos de los estudiantes.
       1. Creamos el control de usuario de StudentPhoto.

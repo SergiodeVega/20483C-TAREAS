@@ -1,5 +1,5 @@
 1. Sergio de Vega
-2. XX octubre 2020
+2. 16 noviembre 2020
 3. Tarea 05:
    1. 20483C_MOD09_LAK.md
    2. 20483C_MOD10_LAK.md
