@@ -11,9 +11,16 @@
       6. Ejecutar y verificar la aplicación.
       ![C2](images/C2.PNG)
       ---
-   2. **Ejercicio 02:** .
-      1. 
+   2. **Ejercicio 02:** Dando estilo a la vista Logon.
+      1. Definir y aplicar estilos a la vista LogonPage
+      2. Definir estilos globales para la aplicación.
+      3. Ejecutar y verificar.
+      ![C3](images/C3.PNG)
       ---
-   3. **Ejercicio 03:** Animando el control de StudentPhoto.
+   1. **Ejercicio 03:** Animando el control de StudentPhoto.
+      1. Definir animaciones para el control SudentPhoto.
+      2. Añadir manejadores de eventos para disparar las animaciones.
+      3. Ejecutar y verificar.
+      ![C4](images/C4.PNG)
 
       
