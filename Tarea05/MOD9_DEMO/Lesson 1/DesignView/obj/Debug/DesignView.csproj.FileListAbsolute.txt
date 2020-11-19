@@ -1,0 +1,15 @@
+D:\_Allfiles\Mod09\Democode\DesignView\bin\Debug\DesignView.exe.config
+D:\_Allfiles\Mod09\Democode\DesignView\bin\Debug\DesignView.exe
+D:\_Allfiles\Mod09\Democode\DesignView\bin\Debug\DesignView.pdb
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\DesignView.csprojAssemblyReference.cache
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\MainWindow.g.cs
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\App.g.cs
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\DesignView_MarkupCompile.cache
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\DesignView_MarkupCompile.lref
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\MainWindow.baml
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\DesignView.g.resources
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\DesignView.Properties.Resources.resources
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\DesignView.csproj.GenerateResource.cache
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\DesignView.csproj.CoreCompileInputs.cache
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\DesignView.exe
+D:\_Allfiles\Mod09\Democode\DesignView\obj\Debug\DesignView.pdb
