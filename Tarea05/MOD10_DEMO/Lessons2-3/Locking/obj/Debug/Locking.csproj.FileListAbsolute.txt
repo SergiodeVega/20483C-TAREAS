@@ -1,0 +1,6 @@
+D:\_Allfiles\Mod10\Democode\Starter\Locking\bin\Debug\Locking.exe.config
+D:\_Allfiles\Mod10\Democode\Starter\Locking\bin\Debug\Locking.exe
+D:\_Allfiles\Mod10\Democode\Starter\Locking\bin\Debug\Locking.pdb
+D:\_Allfiles\Mod10\Democode\Starter\Locking\obj\Debug\Locking.csproj.CoreCompileInputs.cache
+D:\_Allfiles\Mod10\Democode\Starter\Locking\obj\Debug\Locking.exe
+D:\_Allfiles\Mod10\Democode\Starter\Locking\obj\Debug\Locking.pdb
