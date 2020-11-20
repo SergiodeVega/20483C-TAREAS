@@ -1,0 +1,6 @@
+D:\_Allfiles\Mod12\Labfiles\Starter\Exercise 3\Grades.Utilities\bin\Debug\Grades.Utilities.dll
+D:\_Allfiles\Mod12\Labfiles\Starter\Exercise 3\Grades.Utilities\bin\Debug\Grades.Utilities.pdb
+D:\_Allfiles\Mod12\Labfiles\Starter\Exercise 3\Grades.Utilities\obj\Debug\Grades.Utilities.csprojAssemblyReference.cache
+D:\_Allfiles\Mod12\Labfiles\Starter\Exercise 3\Grades.Utilities\obj\Debug\Grades.Utilities.csproj.CoreCompileInputs.cache
+D:\_Allfiles\Mod12\Labfiles\Starter\Exercise 3\Grades.Utilities\obj\Debug\Grades.Utilities.dll
+D:\_Allfiles\Mod12\Labfiles\Starter\Exercise 3\Grades.Utilities\obj\Debug\Grades.Utilities.pdb
