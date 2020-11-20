@@ -1,0 +1,14 @@
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\bin\Debug\FourthCoffee.TypeInspector.exe.config
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\bin\Debug\FourthCoffee.TypeInspector.exe
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\bin\Debug\FourthCoffee.TypeInspector.pdb
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.csprojAssemblyReference.cache
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\MainWindow.baml
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\MainWindow.g.cs
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\App.g.cs
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector_MarkupCompile.cache
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.g.resources
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.Properties.Resources.resources
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.csproj.GenerateResource.cache
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.csproj.CoreCompileInputs.cache
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.exe
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.TypeInspector\FourthCoffee.TypeInspector\obj\Debug\FourthCoffee.TypeInspector.pdb

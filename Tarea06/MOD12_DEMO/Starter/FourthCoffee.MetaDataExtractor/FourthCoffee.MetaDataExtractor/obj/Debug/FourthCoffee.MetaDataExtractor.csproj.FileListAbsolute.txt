@@ -1,0 +1,17 @@
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\bin\Debug\FourthCoffee.MetaDataExtractor.exe.config
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\bin\Debug\FourthCoffee.MetaDataExtractor.exe
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\bin\Debug\FourthCoffee.MetaDataExtractor.pdb
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\bin\Debug\FourthCoffee.Core.dll
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\bin\Debug\FourthCoffee.Core.pdb
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.csprojAssemblyReference.cache
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\MainWindow.baml
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\MainWindow.g.cs
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\App.g.cs
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor_MarkupCompile.cache
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.g.resources
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.Properties.Resources.resources
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.csproj.GenerateResource.cache
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.csproj.CoreCompileInputs.cache
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.csproj.CopyComplete
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.exe
+D:\_Allfiles\Mod12\Democode\Starter\FourthCoffee.MetaDataExtractor\FourthCoffee.MetaDataExtractor\obj\Debug\FourthCoffee.MetaDataExtractor.pdb
